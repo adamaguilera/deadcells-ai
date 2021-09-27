@@ -1,0 +1,24 @@
+{
+    "test": "test_val",
+    "RECORD_KEY": "p",
+    "STOP_KEY": "o",
+    "SELECT_KEY": "l",
+    "SCREEN": {
+        "TOP_LEFT": [
+            0.0,
+            0.0
+        ],
+        "TOP_RIGHT": [
+            1439.984375,
+            0.0
+        ],
+        "BOT_LEFT": [
+            0.0,
+            899.984375
+        ],
+        "BOT_RIGHT": [
+            1439.984375,
+            899.984375
+        ]
+    }
+}
